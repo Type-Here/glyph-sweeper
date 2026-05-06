@@ -23,61 +23,61 @@ substitution_dict = {
 
 substitution_extended = {
     # Arrows (cardinal + common)
-    'U+2190': '<-',   # ←
-    'U+2191': '^',    # ↑
-    'U+2192': '->',   # →
-    'U+2193': 'v',    # ↓
-    'U+2194': '<->',  # ↔
-    'U+21D0': '<=',   # ⇐
-    'U+21D2': '=>',   # ⇒
-    'U+21D4': '<=>',  # ⇔
-    'U+27F5': '<-',   # ⟵
-    'U+27F6': '->',   # ⟶
-    'U+27F7': '<->',  # ⟷
+    'U+2190': '<-',   # Leftwards Arrow
+    'U+2191': '^',    # Upwards Arrow
+    'U+2192': '->',   # Rightwards Arrow
+    'U+2193': 'v',    # Downwards Arrow
+    'U+2194': '<->',  # Left Right Arrow
+    'U+21D0': '<=',   # Leftwards Double Arrow
+    'U+21D2': '=>',   # Rightwards Double Arrow
+    'U+21D4': '<=>',  # Left Right Double Arrow
+    'U+27F5': '<-',   # Long Leftwards Arrow
+    'U+27F6': '->',   # Long Rightwards Arrow
+    'U+27F7': '<->',  # Long Left Right Arrow
 
     # Operators / relations
-    'U+2260': '!=',   # ≠
-    'U+2264': '<=',   # ≤
-    'U+2265': '>=',   # ≥
-    'U+2248': '~',    # ≈
-    'U+221E': 'inf',  # ∞
-    'U+2211': 'sum',  # ∑
-    'U+220F': 'prod', # ∏
-    'U+221A': 'sqrt', # √
-    'U+221D': 'prop', # ∝
-    'U+2212': '-',    # − (minus)
+    'U+2260': '!=',   # Not Equal To
+    'U+2264': '<=',   # Less-Than Or Equal To
+    'U+2265': '>=',   # Greater-Than Or Equal To
+    'U+2248': '~',    # Almost Equal To
+    'U+221E': 'inf',  # Infinity
+    'U+2211': 'sum',  # N-Ary Summation
+    'U+220F': 'prod', # N-Ary Product
+    'U+221A': 'sqrt', # Square Root
+    'U+221D': 'prop', # Proportional To
+    'U+2212': '-',    # Minus Sign
 
     # Set / logic
-    'U+2208': 'in',    # ∈
-    'U+2209': 'notin', # ∉
-    'U+2200': 'forall',# ∀
-    'U+2203': 'exists',# ∃
-    'U+00AC': '!',     # ¬
-    'U+2227': '&&',    # ∧
-    'U+2228': '||',    # ∨
-    'U+22C5': '*',     # ⋅
+    'U+2208': 'in',    # Element Of
+    'U+2209': 'notin', # Not An Element Of
+    'U+2200': 'forall',# For All
+    'U+2203': 'exists',# There Exists
+    'U+00AC': '!',     # Not Sign
+    'U+2227': '&&',    # Logical And
+    'U+2228': '||',    # Logical Or
+    'U+22C5': '*',     # Dot Operator
 
     # Brackets / braces
-    'U+27E8': '<',    # ⟨
-    'U+27E9': '>',    # ⟩
-    'U+3010': '[',    # 【
-    'U+3011': ']',    # 】
+    'U+27E8': '<',    # Mathematical Left Angle Bracket
+    'U+27E9': '>',    # Mathematical Right Angle Bracket
+    'U+3010': '[',    # Left Black Lenticular Bracket
+    'U+3011': ']',    # Right Black Lenticular Bracket
 
     # Punctuation / misc
-    'U+00B7': '.',    # ·
-    'U+00D7': 'x',    # ×
-    'U+00F7': '/',    # ÷
-    'U+2022': '*',    # •
-    'U+25CF': '*',    # ●
-    'U+25CB': 'o',    # ○
-    'U+25A0': '#',    # ■
-    'U+25A1': '#',    # □
+    'U+00B7': '.',    # Middle Dot
+    'U+00D7': 'x',    # Multiplication Sign
+    'U+00F7': '/',    # Division Sign
+    'U+2022': '*',    # Bullet
+    'U+25CF': '*',    # Black Circle
+    'U+25CB': 'o',    # White Circle
+    'U+25A0': '#',    # Black Square
+    'U+25A1': '#',    # White Square
 
     # Quotes / apostrophes
-    'U+2010': '-',    # ‐
-    'U+2011': '-',    # ‑
-    'U+2032': "'",    # ′
-    'U+2033': '"',    # ″
+    'U+2010': '-',    # Hyphen
+    'U+2011': '-',    # Non-Breaking Hyphen
+    'U+2032': "'",    # Prime
+    'U+2033': '"',    # Double Prime
 }
 
 
